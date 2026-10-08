@@ -1,5 +1,5 @@
 Business Metrics Analyzer
- Название проекта
+Название проекта
 Business Metrics Analyzer — учебное приложение для анализа бизнес-метрик.
 Бизнес-задача
 Приложение предназначено для анализа основных бизнес-показателей компании.
@@ -7,22 +7,31 @@ Business Metrics Analyzer — учебное приложение для ана�
 
 Используемые технологии
 
-- Python
-- pandas
-- matplotlib
-- Git
-- GitHub
+* Python
+* pandas
+* matplotlib
+* Git
+* GitHub
+
 
 
 Инструкция по запуску
+
 1. Клонировать репозиторий.
 2. Установить зависимости:
-   pip install -r requirements.txt
+pip install -r requirements.txt
 3. Запустить приложение:
-   python main.py
+python main.py
 
 Автор
 Elizaveta-1904
 
-## Проверка
+
+Проверено
+
+Документация проверена участником Artemic345.
+
+
+
+ Проверка
 Документация проверена участником Artemic345.
